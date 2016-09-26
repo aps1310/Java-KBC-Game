@@ -1,0 +1,405 @@
+﻿create table questions(qid numeric(10),qlevel numeric(10),question varchar(300),o1 varchar(50),o2 varchar(50),o3 varchar(50),o4 varchar(50),answer number,primary key(qid));
+
+
+
+
+
+insert into questions values (1,1,'In the Film "OMG Oh My God" Kanji Bhai filed a case against whom for the damage of his shop due to an earthquake ?','Bharat Mata','Parliament','Mumbai City','Bhagwan (God)',4);
+
+insert into questions values (2,1,'What is the new name of the Hyderabad franchise that would replace Deccan Charges in IPL6?','Sun Chargers','Nizam Jyothi ','Andhra Aces','Sun risers Hyderabad',4);
+
+insert into questions values (3,1,'In India, under which Union Ministry does the Rajbhasha Vibhag function?','Home Affairs','HRD','Culture','Law & Justice',1);
+
+insert into questions values (4,1,'Which of these cricketers has captained two different IPL teams ?','Harbhajan Singh','Gautam Gambhir','Virendar Sehwag','Anil Kumble',2);
+
+insert into questions values (5,1,'According to a proverb, what is said to be ‘the mother of invention ?','Society','Problem','Science','Necessity',4);
+
+insert into questions values (6,1,'Floor exercise, vault, and uneven bars are events in which sport ?','Synchronised Swimming','Gymnastics','Skating','Wrestling',2);
+
+insert into questions values (7,1,' Which actress got married to Siddharth Roy Kapur in 2012 ?','Prachi Desai','Lisa Ray','Vidya Balan','Sushmita Sen',3);
+
+insert into questions values (8,1,'Which among these is an Island country ?','Yemen','Maldives','Oman','Peru',2);
+
+insert into questions values (9,1,'what has been e currency of Greece sine 2002?','Euro','peso','Drachma','Lira',1);
+
+insert into questions values (10,1,'Which constituency does Abhijit Mukherjee represents in the 15th Lok Sabha ?','Jadavpur','Birbhum','Jangipur','Midnapore',3);
+
+insert into questions values (11,1,'which Indian sportsperson was awarded the order of Australia” award in 2012?','Saina Nehwal','Sachin Tendulkar','Sania Mirza','Rahul Dravid',2);
+
+insert into questions values (12,1,'What was embedded in the badge of the main character of Film Deewar and Coolie?','786','420','1947','9211',1);
+
+insert into questions values (13,1,'To whom did Ravindranath Tagore dedicate his book visva parichay written on science?','C v raman','jagdish chandra Bose','P c Roy','Satyendra nath Bose',4);
+
+insert into questions values (14,1,'Which of these ships was not part of Christopher Columbus first voyage in 1492 ?','Nina','La Gorda','Pinta','Santa Maria',2);
+
+insert into questions values (15,1,'Who administered the oath of office to Dr. Manmohan Singh when he became Prime Minister for the first time?','Pratibha Patil','A. P. J. Abdul Kalam','K. R. Narayan','Shankar Dayal Sharma',2);
+
+insert into questions values (16,1,'What was embedded in the badge of the main character of Film Deewar  and Coolie?','786','420','1947','9211',1);
+
+insert into questions values (17,1,'What do the five rings of the Olympics represent?','Five games','Five languages','Five continents','Five oceans',3);
+
+insert into questions values (18,1,'Lockjaw is a symptom of which of these disease?','Tetanus','Cholera','Plague','Diphtheria',1);
+
+insert into questions values (19,1,'Bharatpur Bird Century was named Keoladeo Ghana National Park after a temple dedicated to which God or Goddess?','Kali','Yama','Kuber','Shiva',4);
+
+insert into questions values (20,1,'With which religion would you associate the practice of Santhara fasting unto death?','Jainism','Sikhism','Shintoism','Buddhism',1);
+
+insert into questions values (21,1,'The cricket Test series played between India and England in India is contested for which trophy?','Pataudi Trophy','Anthony De Mello trophy','M. A. Chidambaram Trophy','Gooch Gavaskar Trophy',2);
+
+insert into questions values (22,1,'Which of these tourist attractions is situated on an island ?','Ellora Caves','Ajanta Caves','Kanheri Caves','Elephanta Caves',4);
+
+insert into questions values (23,1,'Which of these actress is married to a professional golfer?','Chitrangada Singh','Celina Jaitly','Esha Deol','Ayesha Takia',1);
+
+insert into questions values (24,1,'According to the Devi, Bhagavata, from the tears of which god is the rudraksha tree believed to have been created?','Vishnu','Shiva','Nhrama','Nhrama',2);
+
+insert into questions values (25,1,'Which of these is a chemical element present in the periodic table?','Eurocium ','Americium','Asiacium','Africium',2);
+
+insert into questions values (26,1,'Which of these world champions is a parent of twins?','Sushil Kumar ','M. C. Mary Kom','Vishwanathan Anand','Gagan Narang',2);
+
+insert into questions values (27,1,'Which of these is not a work of Kalidas?','Raghuvamsham','Meghadutam','Vikramorvasiyam','Kadambari',4);
+
+insert into questions values (28,1,'What was the first ministerial portfolio held by Indira Gandhi?','Home Affairs','Information & Broadcasting','Science & Technology','Education',2);
+
+insert into questions values (29,1,'The sanskrit word Himalaya means The place of ____?','Devata','Barf','Hindu','Tapasaya',2);
+
+insert into questions values (30,1,'Who directed Rajesh Khanna in his first ever TV commercial?','R Balki','Shyam Benegal','Pradeep Sankar','Prahlad Kakkar',1);
+
+
+
+
+
+
+
+
+insert into questions values (31,2,'Which of these numbers is used before the word Shringar to describe a fully beautiful women ?','Chhattees','Solah',' Chhappan',' Gyarah',2);
+
+insert into questions values (32,2,'Which part of Pudina plant is normally used to make pudina chutney ?',' Seed','Flower','Root','Leaves',4);
+
+insert into questions values (33,2,'Whose different forms are Shailputri, Brahmcharani and Chandraghanta ?','Rati','Ganga','Durga','Menaka',3);
+
+insert into questions values (34,2,'Which of these names means lightning?','Saumaya','Damani','Shreya','Mahima',2);
+
+insert into questions values (35,2,'Which of these words can refer to a fairly low temperature or fashionably or impressive?','Met','Wow','Chic ','Cool',4);
+
+insert into questions values (36,2,'which of these names means gold-like?','Sonakshi','Sonam','Sumita','Sanjana',2);
+
+insert into questions values (37,2,' Which of these brands of pens is named after highest peak in Western Europe?','Reynolds','Montblanc','Faber-Castell','Sheaffer',2);
+
+insert into questions values (38,2,'What does the ‘F’ stands for in the Motorsports popularly known as F1?','Fast','Force','Formula','Fly',3);
+
+insert into questions values (39,2,'Which of these is the name of an island as well as a type of coffee?','Mocha','Arabica','Java ','Oolong',3);
+
+insert into questions values (40,2,'Which of these personalities is known as the Flying Sikh?','Gurbachan Singh Randhawa','Harbhajan Singh','Navjot Singh Sidhu','Mikha Singh',4);
+
+insert into questions values (41,2,'Which actor played the title role of Agent Vinod in the 1977 film of the same name?','Mahendra Sandhu ','Vinod Mehra','Vinod Khanna','Navin Nischol',1);
+
+insert into questions values (42,2,'If you are driving Chappu , Then It mean that you are traveling with......................?','bail Gadi (Bullock Cart)','Tanga ( carriage )','Doli','Naav (Boat )',4);
+
+insert into questions values (43,2,'Which is the least populated state of India?',' Manipur','Arunachal Pradesh','Sikkim','Goa',3);
+
+insert into questions values (44,2,'Who wrote the poem Hum Panchi Unmukt Gagan Ke?','Shivmangal Singh Suman','Ayodhya Singh Upadhyay Hariaudh','Suryakanth Tripathi Nirala','Jayshankar Prasad',1);
+
+insert into questions values (45,2,'In which edition of the Olympics did women participate for the first time?','Paris, 1900','London, 1908','Antwerp, 1920','Berlin, 1916',1);
+
+insert into questions values (46,2,'Which of these did Bimbisara, the king of Magadha, get as dowry on marrying the daughter of the king of Kosala?','Pataliputra','Kashi','Anga','Vaisali',2);
+
+insert into questions values (47,2,'Who amount these was the first lady Air Marshal of the Indian Air Force?','Lakshmi Sehgal','Padmavathy Bandopadhyay','Nirmala Kannan','Puneeta Arora',2);
+
+insert into questions values (48,2,'Who is the singer of Pi Lullby, the Oscar-nominated song from the movie Life of Pi?','Mahalakshmi Iyer','K. S. Chithra','Bombay Jayashri','Suchitra',3);
+
+insert into questions values (49,2,'With reference to genetics, which of these would best describe DNA and RNA?','Base','Acid','Salt','Metal',2);
+
+insert into questions values (50,2,'After which of these personalities, one time Lieutenant Governor of Punjab, is a suburb in Dharamshala named?','Lord Dalhousie','Sir Donald McLeod','Sir Edward Bames','Lord Lansdowne',2);
+
+insert into questions values (51,2,'Kaiser-i-Hind, found mostly in Nepal and the north-eastern part of India, is a rare species of which type of organism?','Fish ','Butterfly','Bee','Lizard',2);
+
+insert into questions values (52,2,'. According to the Mahabharata, which of these characters got married through a swayamvara?','Madri ','Gandhari','Kunti','Satyavati',3);
+
+insert into questions values (53,2,'Which of these vice president of India was earlier chief minister of his state?','Zakir Hussain ','V. V. Giri','Bhairon Singh Shekhawat ','R. Venkalaraman','3);
+
+insert into questions values (54,2,'Which of these terms is used for a state of political hostility characterized by threats or propaganda between countries?','Summer War ','Cold War','Rainy War ','Spring War',2);
+
+insert into questions values (55,2,'In 2011, who replaced Gary Kirsten as the coach of the Indian Test cricket team?','Dav Whatmore ','John Wright','Duncan Fletcher ','Gerg Chappel',2);
+
+insert into questions values 56,2,'Who founded the political party National People's Party (NPP) in January 2013?','Amar Singh','B. S. Yeddyurappa','P. A. Sangama ','Keshubhai Patel',3);
+
+insert into questions values (57,2,'During the start of his political life, Sher Shah Suri was the jagirdar of which place?','Rohtak','Sasaram','Mathua','Darbhaga',2);
+
+insert into questions values (58,2,'Which state or UT of India is divided into four districts all named after the four cardinal directories?','Sikkim','Goa','Manipur','Chandigarh',1);
+
+insert into questions values (59,2,'Who holds the record of being elected to the Lok Sabha for the most number of terms?','Atal Bihari Vajpayee ','Indrajit Gupta','P. M. Sayeed ','Babu Jagjivan Ram','In2');
+
+insert into questions values (60,2,'What was the name of Jain tirtankar Mahavira wife?','Devaki','Rohini','Subhadra','Yashoda','4
+
+
+
+
+
+insert into questions values (61,3,'Which of these Indian currency notes does not have the special geometrical shape that helps the visually impaired denominations?','Rs 100','Rs 50','Rs 1000 ','Rs10',4);
+
+insert into questions values (62,3,'Starting from the northernmost , arrange these capital cities in clockwise direction ->Mumbai  ->Kolkatta  ->Delhi  ->Chennai','C-B-D-A','A-B-C-D','D-C-B-a','A-C-D-B',1);
+
+insert into questions values (63,3,'Emulsion, primer and undercoat are all terms connected with what ?','Painting','Knitting','Sewing','Cooking',1);
+
+insert into questions values (64,3,'Which of these is the name for a kind of shot in badminton ?','Bounce','Yorker','Drop ','Bout',3);
+
+insert into questions values (65,3,'Starting with the earliest, arrange these leaders in the order in which they became President of India ? ->Pranab Mukherjee ->Pratibha Patil ->A. P. J. Abdul Kalam ->K. R. Narayanan,'D-C-B-A','A-B-C-D','B-A-D-C','C-A-B-D',1);
+
+insert into questions values (66,3,'Which of these is the title of a film directed by Rohit Shetty ?','Devgan Vaani ','Shetty Salah','Chal Chopra ','Bol Bachchan',4);
+
+insert into questions values (67,3,'Which of these cannot be the same for two different persons ?','Fingerprints','Vladimir Kramnik','Vesselin Topalov ','Boris Gelfand',4);
+
+insert into questions values (68,3,'Which river was set as the eastern boundary of Maharaja Ranjit SIngh kingdom by the Treaty of Amritsar of 1809 ?','Sutlej','Beas','Ghaggar','Ravi',1);
+
+insert into questions values (69,3,'Complete the Hindi proverb : Ab Pachhtave hoth kya jab Chidiya Chug gayi________ ?','Daana','Khet','Moti','Beej',2);
+
+insert into questions values (70,3,'Which of these lines would you associate with Akshay Kumar in  Rowdy Rathore?','Abracadabra','My Name is Khan','I Hate Luv Stories ','Dont Angry Me',4);
+
+insert into questions values (71,3,'Vijay Kumar Won a Silver medal at the 2012 London Olympics in which sport ?','Shooting','Badminton','Boxing','Wrestling',1);
+
+insert into questions values (72,3,'Which Countrys Head of State visited Ajmer Sharif in April 2012 and announced a donation of Rs. 5 Crore ?','Bangladesh','Afghanistan','Pakistan','Iran',3);
+
+insert into questions values (73,3,'According to the Ramayana, whose flag had a veena motif on it ?','Ravana','Bharata','Meghnada','Vibhishana',1);
+
+insert into questions values (74,3,'The Large Hadron Collider (LHC) , the Worlds largest and highest energy particle accelerator, is situated at which organization ?','Fermilab','NASA','SLAC Lab ','CERN',4);
+
+insert into questions values (75,3,'Which of these buildings in Rajasthan was built to provide employment to people during a period of famine ?','Amber Fort','Hawa Mahal','Mehrangarh Fort ','Umaid Bhawan palace',4);
+
+insert into questions values (76,3,'Which Countrys Head of State visited Ajmer Sharif in April 2012 and announced a donation of Rs. 5 Crore ?','Bangladesh','Afghanistan','Pakistan','Iran.',3);
+
+insert into questions values (77,3,'Which of these buildings in Rajasthan was built to provide employment to people during a period of famine ?','Amber Fort','Hawa Mahal','Mehrangarh Fort','Umaid Bhawan palace',4);
+
+insert into questions values (78,3,'Which of these words or names means oscor dew ?','Tabassum','Afreen','Shabnam','Shabnam',4);
+
+insert into questions values (79,3,'What was embedded in the badge of the main character of Film “Deewar ” and “Coolie”?','786','420','1947','9211',1);
+
+insert into questions values (80,3,'Which type of professionals are the lead characters of the TV serial ‘ Kuch toh Log kahenge ‘?','Engineers.','Lawyers','Architects','Doctors',4);
+
+insert into questions values (81,3,'Time ho gaya hai, pack up” were reported to be the last words of which film star ?','Rajesh Khanna ','Shammi Kapoor','Dev Anand ','Joy Mukherjee',1);
+
+insert into questions values (82,3,'Which poet wrote Rann beech chowkri bhar bharkar chetak ban gaya nirala tha, Rana Pratapne ghore se, pad gaya hawa ka pala tha" ?','Dwaraka Prasad Mukherjee','Maithlee Sharan Gupt','Subhadra Kumari Chauhan ','Shyam Narayan Pandey',4);
+
+insert into questions values (83,3,'Which of these cities does the Yamuna Express Way connect with greater Noida ?','Jhansi ','Agra','Kanpur','Haridwar',2);
+
+insert into questions values (84,3,'Who is the only woman to become the Chief Election Commissioner of India ?','C. B. Muthamma ','Punita Arora','Anna George Malhotra ','V. S. Ramadevi',4);
+
+insert into questions values (85,3,'In 2012, under whose captaincy did India win the ICC Under -19 Cricket World Cup ?','Smit Patel ','Unmukt Chand','Baba Aparajith ','Harmeet Singh',2);
+
+insert into questions values (86,3,'Which of these beauty queens shares her name with the surname of a West Indian Cricket legends ?','Diana','Priyanka','Sushmita','Lara',4);
+
+insert into questions values (87,3,'Which of these is held annually in India ?','Lok Sabha Elections','Presidential Elections','Budget Session of Parliament','Vidhan Sabha Elections',2);
+
+insert into questions values (88,3,'Which of these beauty queens shares her name with the surname of a West Indian Cricket legends ?','Diana','Priyanka','Sushmita','Lara',4);
+
+insert into questions values (89,3,'In 2012, under whose captaincy did India win the ICC Under -19 Cricket World Cup ?','Smit Patel','Unmukt Chand','Baba Aparajith ','Harmeet Singh',2);
+
+insert into questions values (90,3,'Kamadeva got the name Ananga after he was burned to ashes by the fire of which god's third eye ?','Agni','Shiva','Vishnu','Indra',2);
+
+
+
+
+
+
+insert into questions values (91,4,'How many bones does an elephant's trunk have ?','5','1','10','0',4);
+
+insert into questions values (92,4,'In which city is the Peer Dastageer Sahib Shrine that was damaged in a fire in June 2012 Situated ?','Srinagar','Ajmer','Aligarh','Hyderabad',1);
+
+insert into questions values (93,4,'Who succeeded General V. K. Singh as the Chief of Army Staff of India ?','Gen Tejinder Singh','Gen Dalbir Singh Suhag','Gen Deepak Kapoor ','Gen Bikram Singh',1);
+
+insert into questions values (94,4,'According to Kalhana Rajatarangini, who drained out the water from Kashmir Valley, that was a vast Lake, and made it habitable ?','Agastya','Kashyapa','Valmiki','Parashurma',2);
+
+insert into questions values (95,4,'In May 2012, which country prime minister became its president and the became the prime minister ?','Russia','Poland','Ukrane','France',1);
+
+insert into questions values (96,4,'In 2011, India first air-conditioned double-decker train started between which two cities ?','Howrah-Darbhnaga ','Habibganj-Indore','Sealdah-Delhi ','Howrah-Dhanbad',1);
+
+insert into questions values (97,4,'In 1860, Which British official became the first auditor General of India ?',') Sir A. F. Cox ','Sir Proby Cautley','Lord Sallsbury ','Sir Edmund Drummond',4);
+
+insert into questions values (98,4,'Which of these sweets are often cast in various moulds to resemble flowers, fruit and shells ?','Rosogulla','Rasmalai','Sandesh ','Ledikeni',3);
+
+insert into questions values (99,4,'What does a Kilo equal to, as in kilometre or kilogram ?','10 ','100','10000 ','1000',4);
+
+insert into questions values (100,4,'Which of these sportswomen is a five-time world champion in her sport ?','Deepika Kumari ','M. C. Mary Korn','Krishna Poonia ','Saina Nehwal',2');
+
+insert into questions values (101,4,'Which of these events is described in the Kishkindha Kande of the Ramayana ?','Rama meets Hanuman','Rama weds Sita','Sita’s kidnapping','Slaying of Ravana',1);
+
+insert into questions values (102,4,'Which leader made her facebook debut in 2012 with the post ‘ I gave voice to what millions of Indians went to see in a President ?','Mamata Banerjee ','Sonia Gandhi','Mayawati','Jayalalithaa',1);
+
+insert into questions values (103,4,'In February 2012, What jubilee was celebrated by queen Elizabeth II, the longest reigning monarch of Britian ?','Platinum Jubilee ','Silver Jubilee','Diamond Jubilee ','Golden Jubilee',3);
+
+insert into questions values (104,4,'Who is the first woman to become CEO of the soft drink giant PepsiCo ?','Virginia Rometty ','Indra Nooyi','Ursula Burns','Meg Whitman','2);
+
+insert into questions values (105,4,'In Which of these events did Pinki Pramanik win a gold medal at the 2006 Doha Asian Games ?','4×400 m relay ','800 m','Discus Throw ','400 m',1);
+
+insert into questions values (106,4,'. Which of these is the title of a film starring Akshay Kumar and Sonakshi Sinha ?','Bajirao Singham ','Rowdy Rathore','Robinhood Pandey ','Lovely Singh',2);
+
+insert into questions values (107,4,'. Complete this quote by Bal Gangadhar Tilak, ” Swaraj is my ________ and I will have it ” ?','Fundamental Right ','Motherland','Country','Birthright',4);
+
+insert into questions values (108,4,'In which of these geometrical shapes is the sum of all the angles equal to 180 degrees ?','Triangle','Square','Rectangle','Circle',1);
+
+insert into questions values (109,4,'Which of these figures is portrayed in Vijay Tendulkar’s play ‘ Ghasiram Kotwal’ ?',') Ranoji Scindia ','Balaji Vishwanath','Sadashivrao Bhau ','Nana Phadnavis',4);
+
+insert into questions values (110,4,'Which State in India has the longest coastline of about 1600 Km ?','Gujrat','Tamil Nadu','Maharashtra','Odisha','1);
+
+insert into questions values (111,4,'Which of these countries is not a part of BRICS, an association of leading emerging economies ?','China','India','Canada','Russia',3);
+
+insert into questions values (112,4,'Who is the first woman to win the Rajiv Gandhi Khel Ratna ?','Karnam Malleswari ','Jyotirmoyee Sikdar','Anju Bobby George ','Anjali Bhagwat',1);
+
+insert into questions values (113,4,'Who was called ‘ Father of the Lok Sabha’ by Pandit Nehru ?','U N Dhebar ','G V Mavalankar','J B Kripalani ','R K Shanmukham Chetty',1);
+
+insert into questions values (114,4,'Who becomes ‘badnaam’ for her ‘darling’ according to the song from ‘Dabangg' ?','Sheila','Bebo','Chameli ','Munni',4);
+
+insert into questions values (115,4,'“Vakratunda mahakaya, suryakoti samaprabha, nirvighnam kuru mey deva, sarva karyeshu sarvada ” is sung in praise of whom ?','Shiva','Rama','Ganesha','Krishna',3);
+
+insert into questions values (116,4,'Sanganer, situated near Jaipur, is a renowned centre of what kind of handicraft ?','Batik printing ','Block printing','Chikankari','Zardozi',2);
+
+insert into questions values (117,4,'Which of these is a type of reference book that lists words and their meanings in alphabetical order ?','Shabdjaal','Nishabd','Shabdkosh','Shabd-Sur',3);
+
+insert into questions values (118,4,'Which of these phrases is often used to describe a close childhood friends ?','Roomali dost ','Langotia yaar','Gamchha friends ','Dhoti mitra',2);
+
+insert into questions values (119,4,'What is the name of Lord Vishnu’s Chakra ?','Chakrapani','Chakravarti','Surya Chakra ','Sudarshana Chakra',4);
+
+insert into questions values (120,4,'‘ In 3 Idiots’, what does Rancho define as “Instruments that records analyse, summarize, organize, debate and explain information … ” ?','Machine','Computer','Books','Tape Recorder',3);
+
+
+
+
+
+
+
+
+
+
+
+insert into questions values (121,5,'In which State would you find the district of Kokrajhar ?','Chhatisgarh','Odisha','Assam','Madhya Pradesh',3);
+
+insert into questions values (122,5,'At which venue did Sachin Tendulkar achieve an ODI score of 200 not out ?','Roop Singh, Stadium Gwalior ','Eden Gardens, Kolkatta','Wankhede, Mumbai ','Chinnaswamy, Bengaluru',1);
+
+insert into questions values (123,5,'In which State would you find the district of Kokrajhar ?','Chhatisgarh','Assam','Madhya Pradesh','Odisha',2);
+
+insert into questions values (124,5,'What was the name of the rover sent by NASA that landed on Mars in August, 2012 ?','Odyssey','Discovery','Challenger','Curiosity',4);
+
+insert into questions values (125,5,'At the instigation of Mughal prince Salim, whom did Bir Singh Bundela assassinate ?','Birbal','Raja Daniyal','Abul Fazi ','Raja Mansigh','3);
+
+insert into questions values (126,5,'Which is the only district in India that shares its boundary with four states ?','Saharanpur','Sonbhadra','Garhwa','East Singhbhum',2);
+
+insert into questions values (127,5,'Who is the oldest person, at the age of 90, to have won the Nobel Prize ?','Raymond Davis Jr ','Doris Lessing','Leonld Hurwicz','Yolchiro Nambu','2);
+
+insert into questions values (128,5,'Arrange the following powers or dynasties in the order in which they first ruled in India from Delhi  ->The British ->Mughals ->Chauhans ->Lodies','C-D-B-A','A-B-C-D','D-A-B-C'.'C-A-B-D',1);
+
+insert into questions values (129,5,'What does the Hindi Proverb “Haath Malna” mean?','Repent','Rolling Tobacco','Shake Hands ','Wrestle',1);
+
+insert into questions values (130,5,'In 1996, RBI introduced bank notes in what series?','Jawaharlal Nehru Series ','Mahatma Gandhi Series','Bharat Mata Series ','Bharat Ratna Series',2);
+
+insert into questions values (131,5,'In which of these games does the instrument used to play the ball looks similar to the English alphabet “J”?','Hockey','Baseball','Tennis','Badminton',1);
+
+insert into questions values (132,5,'In Which city is wasseypur situated ?','Dhanbad','Ranchi','Patna','Varanasi',1);
+
+insert into questions values (133,5,'Which historic tragedy is highlighted in Amrita Pritam’s novel ‘Panjar’?','Jallianwala Bagh Massacre','1984 Riots','Emergency','Partition',4);
+
+insert into questions values (134,5,'Alex Paul Menon, who was kidnapped in April 2012, is the first Collector of which of these districts ?','Bastar','Bilaspur','Sukma','Dantewada',3);
+
+insert into questions values (135,5,'Which team won the Santosh Trophy football tournament in 2012 ?','Services','Railways','Bengal','Tamil Nadu',1);
+
+insert into questions values (136,5,'Which of these pairs of colours share their name with variants of tea ?','Blue and Brown ','Black and Green','Red and Orange ','Yellow and Violet',2);
+
+insert into questions values (137,5,'In the TV Serial ‘Bade Ache Lagte Hain’ who does the little girl Pihu call Golu Uncle ?','Ram Kapoor ','Rajat Kapur','Vikram Shergill','Karthik Sharma',1);
+
+insert into questions values (138,5,'The full name of which of these IPL teams contains the word “India” ?','Knight Riders','Daredevils','Warriors','Royal Challengers',3);
+
+insert into questions values (139,5,'Which two countries hosted the 2012 UEFA European Football Championships ?','Austria and Switzerland ','Belgium and Holland','Poland and Ukraine ','Spain and Portugal','3);
+
+insert into questions values (140,5,'Which entrepreneur’s autobiographical work is tilted ‘ It Happened in India’ ?','. R. Narayana Murthy ','Vijay Mallya','P. Gopinath ','Kishore Biyani','4);
+
+insert into questions values (141,5,'Which leader said to cartoonist Shankar, Don’t spare me’ when he inaugrated Shankar’s Weekly in 1948 ?','B. R. Ambedkar ','Jawaharlal Nehru','Mahatma Gandhi ','Rajendra Prasad',2);
+
+insert into questions values (142,5,'What was the name of the Italian ship that was detained in Kerala in February 2012 ?','Costa Concordia ','Calo DuilioEnrica Lexia ','Enrica Lexia ','Etna',3);
+
+insert into questions values (143,5,'Which of these is a type of a traditional game ?','Nayan Mohini ','Mrig Nayani','Nayan Taara ','Ankh Michauli',4);
+
+insert into questions values (144,5,'Which of these has parts called the ‘ Antra’ and the ‘Mukhda’ ?','Dialogue','Song','Speech','Dance',1);
+
+insert into questions values (145,5,'Which of these units of weights is the largest ?','Quintal','Gram','Ton','Kilogram',3);
+
+insert into questions values (146,5,'Who among these conquerors was the first to invade India ?','Timur','Nadir Shah','Ahmad shah Durrani ','Babur',1);
+
+insert into questions values (147,5,'What was the little of India’s first feature film made by Dadasahed Phalke ?','Ram Rajya ','Kaliya Mardan','Raja Harishchandra ','Alam Ara',3);
+
+insert into questions values (148,5,'In Mahabharata, which game was played between Yudhistra and Shakuni?','Patangbaji','Shatranj','Panso Ka Khel ','Tirandaji',3);
+
+insert into questions values (149,5,'Identify the singer.','Kumar Sanu ','Himesh Reshammiya','Anand Raj Anand ','Anu Malik',2);
+
+insert into questions values (150,5,'In international cricket, what was first introduced in an ODI between Zimbabwe and England on 1 January 1997?','Hawk Eye ','Third Umpire','Duckworth Lewis Method ','Hot Spot',3);
+
+
+
+
+
+
+insert into questions values (151,6,'Which of these Hindi proverbs means “to invite trouble”?','Chal Kabutar Ud Ja ','Aa Bail Mujhe Maar','Aa Sher Mujhe Ka','As ghode mujhe Gira',2);
+
+insert into questions values (152,6,'Which state has the highest coal reserve in India?','Jharkhand','Odisha','	Chhatisgarh','Andhra Pradesh',1);
+
+insert into questions values (153,6,'Which wedding is traditionally associated with the festival of ‘Vivah Panchami’ celebrated in the Mithila region in Nov-Dec?','Shiva-Parvati ','Rama-Sita','Vishnu-Lakshmi ','Krisna-Rukmini',2);
+
+insert into questions values (154,6,'Which of these father-son pairs have served as chief ministers of two different states?','Mulayam Singh-Akhilesh Yadav','Farooq Abdullah-Omar Abdullah','Biju Patnaik-Naveen Patnaik','H. N. Bahuguna-Vijay Bahuguna',4);
+
+insert into questions values (155,6,'What is the ‘shot’ in the Olympic sport of ‘Shot Put’?','Rubber Disc ','Metal Ball','Wooden Stick ','Javelin',2);
+
+insert into questions values (156,6,'Who is the only member of the 15th Lok Sabha to get elected to the House unopposed?','Agatha Sangma ','Dimple Yadav','Harsimarat Kaur Badal ','Kanimozhi',2);
+
+insert into questions values (157,6,'In Delhi, What are Teez hazari, Welcome, Kashmere Gate and Vishwa Vidyalaya?','universities','Courts','Gates of old Delhi ','Metro Stations','4);
+
+insert into questions values (158,6,'Who founded the Indian Boy Scouts’ Association around 1917 in Madras?','Annie Besant ','Robert Baden Powell','J. S. Wilson ','Mangal Das Pakvasa',1);
+
+insert into questions values (159,6,'Which of these sporting events was reintroduced at the 2012 Olympics since it was last played at the 1924 Olympics?','Women’s Football','Women’s Wrestling','Badminton Mixed Doubles ','Tennis Mixed Doubles',4);
+
+insert into questions values (160,6,'What was embedded in the badge of the main character of Film “Deewar ” and “Coolie”?','786','420','1947','9211',1);
+
+insert into questions values (161,6,'Complete this Hindi proverb, ” Ulta Chor ______” ?','Vakil se ruthe ','Sipahi ko loote','Gharwaale ko pite ','kotwaal ko daante','4);
+
+insert into questions values (162,6,'On Which mission did Neil Armstrong first go into space ?','Apollo 11 ','Gemini 8','Apollo 8','Ranger 8',2);
+
+insert into questions values (163,6,'Which of the following is not the name of a Facebook functionality ?','Like',' Share','Poke','Tweet',4);
+
+insert into questions values (164,6,'In 2012, under whose captaincy did India win the ICC Under -19 Cricket World Cup ?','Smit Patel','Unmukt Chand','Baba Aparajith ','Harmeet ',2);
+
+insert into questions values (165,6,'Which of these words or names means ‘os’ or ‘dew’ ?','Tabassum','Afreen','Shabnam ','Shabnam',4);
+
+insert into questions values (166,6,'The Large Hadron Collider (LHC) , the World’s largest and highest energy particle accelerator, is situated at which organization ?','Fermilab','NASA','SLAC Lab ','CERN',4);
+
+insert into questions values (167,6,'Who directed Rajesh Khanna in his first ever TV commercial?','R Balki ','Shyam Benegal','Pradeep Sankar ','Prahlad Kakkar','1);
+
+insert into questions values (168,6,'Who administered the oath of office to Dr. Manmohan Singh when he became Prime Minister for the first time?','Pratibha Patil ','A. P. J. Abdul Kalam','K. R. Narayan ','Shankar Dayal Sharma',2);
+
+insert into questions values (169,6,'According to the 2011 Census, which of these cities has the highest population after Mumbai and Delhi?','Chennai','Bengaluru','Hyderabad','Kolkata',4);
+
+insert into questions values (170,6,'Former president Shankar Dayal Sharma did not serve as the Governor of which of these states?','Andhra Pradesh ','Punjab','Maharashtra','Madhya Pradesh',4);
+
+insert into questions values (171,6,'Which of these personalities has won both a Nobel prize and an Oscar?','Pearl S. Buck','Ernest Hemingway','G. B. Shaw ','T. S. Eliot',3);
+
+insert into questions values (172,6,'Complete this Hindi proverb, ” Ulta Chor ______” ?','Vakil se ruthe ','Sipahi ko loote','Gharwaale ko pite ','kotwaal ko daante',4);
+
+insert into questions values (173,6,'Which of these cricketers has captained two different IPL teams ?','Harbhajan Singh ','Gautam Gambhir','Virendar Sehwag ','Anil Kumble',2);
+
+insert into questions values (174,6,'On Which mission did Neil Armstrong first go into space ?','Apollo 11','Gemini 8','Apollo 8','Ranger 8',2);
+
+insert into questions values (175,6,'. Which of the following is not the name of a Facebook functionality ?','Like','Share','Poke','Tweet',4);
+
+insert into questions values (176,6,'What does Hamid buy with the modest three paise he receives in his ‘Eidi’ in Premchand’s short story ‘Eidgarh’?','Chimta','Jalebi','Khilona','Kitaab',1);
+
+insert into questions values (177,6,'Which of these words means wife ?','Nakhrewali','Matwali','Gharwali','Padoswali',3);
+
+insert into questions values (178,6,'If three sides of a square are 60 cm each, how many centimetres will the forth side be ?','50','40','60','None of these',3);
+
+insert into questions values (179,6,'Which of these seeds can be classified as a 'tihan' ?','Millet','Soya bean','Barley','Maize',2);
+
+insert into questions values (180,6,'On which actress is this song picturised ?','Nargis Fakhri','Ileana D' Cruz','Shruti Haasan','Sonakshi Sinha',4);
+
+
+
+
+
+
+
+
+
